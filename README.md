@@ -7,8 +7,8 @@ My current project is [hackero.io](https://hackero.io) a hacking simulation game
 desktop like UI, a fully grown filesystem, missions and much more. Its currently In Closed-Alpha. 
 
 **Stats:**
-- Around 1500 People in the waiting list - Over 20000 Lines of Typescript Code 
-- Right now around 150 active 
+- Around 1500 people in the waiting list - Over 50000 lines of Typescript Code 
+- Right now around 150 active players
 players
 - Endless Hours of Coding ⌛ and a not closer specified amount of Coffee ☕
 
