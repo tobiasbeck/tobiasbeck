@@ -7,7 +7,8 @@ My current project is [hackero.io](https://hackero.io) a hacking simulation game
 desktop like UI, a fully grown filesystem, missions and much more. Its currently In Closed-Alpha. 
 
 **Stats:**
-- Around 1500 people in the waiting list - Over 50000 lines of Typescript Code 
+- Around 2000 people in the waiting list - Over 50000 lines of Typescript Code - 20000 Lines of Go
+- Running on a custom implementation of feathers.js based on Golang (feathers.go ;))
 - Right now around 150 active players
 players
 - Endless Hours of Coding ⌛ and a not closer specified amount of Coffee ☕
