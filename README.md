@@ -4,11 +4,10 @@
 I’m a Full Stack Developer with over 10 years of experience, and I’m truly passionate about creating projects that inspire and excite. I love exploring new technologies and getting hands-on with whatever sparks my curiosity. 🤓
 
 ## 🧑‍💻 Here’s a peek at what I’m currently working with:
-
-	•	Go
-	•	TypeScript
-	•	Vue.js
-	•	Generative AI (including Large Language Models and Image Generation)
+- Go
+- TypeScript
+- Vue.js
+- Generative AI (including Large Language Models and Image Generation)
 
 ## Hackero
 
