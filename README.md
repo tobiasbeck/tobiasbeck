@@ -1,18 +1,19 @@
-# Hello! I'm Tobias! 👋
-I'm a passionate Full Stack Developer with 11 years of coding experience. I have a passion for projects that 
-inspire people or help them in their everyday life, but I'm also just fidelling around sometimges getting my 
-hands on exiting new Tech. 🤓
-## 👨‍💻 Things I'm working on
-My current project is [hackero.io](https://hackero.io) a hacking simulation game, featuring realtime gameplay, a 
-desktop like UI, a fully grown filesystem, missions and much more. Its currently In Closed-Alpha. 
+![Cover](./cover.webp)
+# Hey there! 👋
 
-**Stats:**
-- Around 2000 people in the waiting list - Over 50000 lines of Typescript Code - 20000 Lines of Go
-- Running on a custom implementation of feathers.js based on Golang (feathers.go ;))
-- Right now around 150 active players
-players
-- Endless Hours of Coding ⌛ and a not closer specified amount of Coffee ☕
+I’m a Full Stack Developer with over 10 years of experience, and I’m truly passionate about creating projects that inspire and excite. I love exploring new technologies and getting hands-on with whatever sparks my curiosity. 🤓
 
-<br>
-<br>
+## 🧑‍💻 Here’s a peek at what I’m currently working with:
+
+	•	Go
+	•	TypeScript
+	•	Vue.js
+	•	Generative AI (including Large Language Models and Image Generation)
+
+## Hackero
+
+My latest passion project is [hackero.io](https://hackero.io), a hacking simulation game with real-time gameplay. It’s got a desktop-style UI, a fully fleshed-out filesystem, missions, and so much more! I launched a classic version a while back, and now I’m working on an rewrite right now that will allow more game depth.
+
+The game is powered by a custom-built backend framework that follows Domain-Driven Design principles and supports real-time connections. It’s been a rewarding journey, and I can’t wait to share it with the world.
+
 <h1 align="center">STAY AWESOME 🎉</h1>
